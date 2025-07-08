@@ -11,7 +11,7 @@ This project demonstrates object-oriented programming, inventory management, and
 
 - ✅ **Add Books to Inventory**
   - `PaperBook`: Physical books with stock and shipping support
-  - `EBook`: Digital books delivered via email
+  - `EeBook`: Digital books delivered via email
   - `ShowcaseBook`: Display-only books (not for sale)
 
 - 💰 **Buy Books**
